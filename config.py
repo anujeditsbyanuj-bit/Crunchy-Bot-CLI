@@ -7,14 +7,14 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 27806628 # Replace with your API ID
-API_HASH = "25d88301e886b82826a525b7cf52e090" # Replace with your API Hash
-BOT_TOKEN = "8268894911:AAFiKMZTIl8XXs3zodKy5oZsGAL2eyRzsTo" # Replace with your Bot Token
+API_ID = 34724970 # Replace with your API ID
+API_HASH = "f240eae7c60e8e30c17203ab0e052f7e" # Replace with your API Hash
+BOT_TOKEN = "8763570217:AAE6k4YqYeEExkw6BwQzGzI9pv2bdm91zfc" # Replace with your Bot Token
 
 # --- User Management & Limits ---
-sudo_users = [8525952693] # List of sudo user IDs (as integers)
-premium_users = [8525952693] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [8525952693] # List of authorized user IDs to use bot in private (as integers)
+sudo_users = [7521421400] # List of sudo user IDs (as integers)
+premium_users = [7521421400] # List of premium user IDs (as integers)
+AUTHORIZED_USERS = [7521421400] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 2
@@ -265,3 +265,4 @@ LANGUAGE_NAME_TO_ISO639_2B = {
     "Zulu": "zul"
 
 }
+
