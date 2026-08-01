@@ -7,14 +7,14 @@ Email = "" #Your email here
 Password = "" #Your password here
 
 # --- Telegram Settings ---
-API_ID = 34724970 # Replace with your API ID
-API_HASH = "f240eae7c60e8e30c17203ab0e052f7e" # Replace with your API Hash
-BOT_TOKEN = "8763570217:AAE6k4YqYeEExkw6BwQzGzI9pv2bdm91zfc" # Replace with your Bot Token
+API_ID = 37476811 # Replace with your API ID
+API_HASH = "7aa60670b871050820086c6267371ee6" # Replace with your API Hash
+BOT_TOKEN = "8946367857:AAGpDdtG2ZFMG2HeZh-Ve_Ey13pyW-_xVaU" # Replace with your Bot Token
 
 # --- User Management & Limits ---
-sudo_users = [7521421400] # List of sudo user IDs (as integers)
-premium_users = [7521421400] # List of premium user IDs (as integers)
-AUTHORIZED_USERS = [7521421400] # List of authorized user IDs to use bot in private (as integers)
+sudo_users = [8730393744] # List of sudo user IDs (as integers)
+premium_users = [8730393744] # List of premium user IDs (as integers)
+AUTHORIZED_USERS = [8730393744] # List of authorized user IDs to use bot in private (as integers)
 
 # Limits for regular users
 REGULAR_USER_AUDIO_LIMIT = 2
@@ -38,7 +38,7 @@ use_proxy = False # Set to True to use a proxy
 proxy = "" # Proxy URL (e.g., "http://username:password@proxyserver:port")
 
 # watermark settings
-Watermark_Name = "ToonTamilIndia" # Your watermark name here
+Watermark_Name = "Anuj Kumar" # Your watermark name here
 fontfile = "font.ttf" # Font file path
 fontcolor = "white" # Font color
 opaque = "0.4" # opposite of transparency, 0.0 is fully transparent and 1.0 is fully opaque
